@@ -9,7 +9,7 @@ It was developed during the CS101 (Computer Programming in C++) introductory cou
 
 ## Getting Started
 
-Just clone the repository and compile & execute [main.cpp](src/main.cpp). No prerequisite software/tools needed.
+Just clone the repository and compile & execute [main.cpp](main.cpp). No prerequisite software/tools needed.
 
 ## Author
 
